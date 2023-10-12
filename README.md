@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NK-daCoder
 - 👀 I’m interested in Coding, Animation and solving interesting problems
-- 🌱 I’m currently learning Python, C++, Css, Html and Javascript
+- 🌱 I’m currently learning Python, C#, Css, Html and Javascript
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
